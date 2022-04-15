@@ -1,1 +1,0 @@
-pyinstaller -F .\DPS_rule_base.py
