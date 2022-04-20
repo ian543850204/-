@@ -2,6 +2,8 @@
 有鑑於平常工作時所需要用到的程式語法，以及每日學習程式語法的筆記。
 
 # 目錄
-1.我將目錄的部分以程式語言進行分類，目前分為 Python 和 C#。
-2.SQL : 紀錄平時會用到的 SQL 語法。
-3.Coding_Basic_Knowlege 不分程式語言通用的 Coding 邏輯。
+1. 我將目錄的部分以程式語言進行分類，目前分為 Python 和 C#。
+
+2. SQL : 紀錄平時會用到的 SQL 語法。
+
+3. Coding_Basic_Knowlege : 不分程式語言通用的 Coding 邏輯。
