@@ -10,5 +10,5 @@
 4. Excel Python 運用
 5. 資料庫的讀取和存取運用
 
-# 參考來自
+# 基因演算法架構參考來自
 https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II#-introduction
