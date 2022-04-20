@@ -8,3 +8,4 @@
 2. Python CPU平行度演算
 3. 多目標函式 fitness 值計算
 4. Excel Python 運用
+5. 資料庫的讀取和存取運用
