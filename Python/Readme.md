@@ -5,4 +5,5 @@
 # 目錄
 
 1.Sample_code : 紀錄一些 Python 的範例程式碼。
+
 2.command_dictionary : 安裝套件用的指令 或是 一些常用的語法。
