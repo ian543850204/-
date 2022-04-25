@@ -13,4 +13,8 @@ python xxx.py
 
 3.安裝套件
 
-install xxxxx
+install xxxxxx
+
+4.利用 pip 安裝套件
+
+pip install xxxxxxx
