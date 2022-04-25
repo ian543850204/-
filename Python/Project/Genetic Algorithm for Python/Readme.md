@@ -5,10 +5,15 @@
 # 相關運用
 
 1. 基因演算法
-2. Python CPU平行度演算
+2. Python CPU 平行度演算
 3. 多目標函式 fitness 值計算
 4. Excel Python 運用
 5. 資料庫的讀取和存取運用
+
+# 程式架構
+1. 資料串接
+2. 演算法邏輯
+3. 資料輸出
 
 # 基因演算法架構參考
 https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II#-introduction
