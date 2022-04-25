@@ -1,11 +1,7 @@
-# 摘要
-
-分為 Sample_code 以及 command_dictionary 。
-
 # 目錄
 
-1.Sample_code : 紀錄一些 Python 的範例程式碼。
+1.Project : 歷年開發的 Python 專案。
 
-2.Command_dictionary : 安裝套件用的指令 或是 一些常用的語法。
+2.Sample_code : 紀錄一些 Python 的範例程式碼。
 
-3.Project : 專案。
+3.Command_dictionary : 安裝套件用的指令 或是 一些常用的語法。
